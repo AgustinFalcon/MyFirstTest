@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArchitectCodersLite</string>
+    <string name="user_error">Usuario Incorrecto</string>
+    <string name="pass_error">Password Incorrecta</string>
+</resources>
